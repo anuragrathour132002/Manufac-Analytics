@@ -1,14 +1,18 @@
 ## Instructions on How to Run/Start the Project on a Local Server
 
-1. #### Install yarn dependencies
+1. #### clone the repo using this command
+    ```bash
+    git clone https://github.com/anuragrathour132002/Manufac-Analytics
+
+2. #### Install yarn dependencies
     ```bash
     yarn install
     ```
-2. #### Start the development server:
+3. #### Start the development server:
     ```bash
     yarn dev or yarn run dev
     ```
-3. #### Open your browser and navigate to:
+4. #### Open your browser and navigate to:
      ```bash
     http://localhost:5173
     ```
