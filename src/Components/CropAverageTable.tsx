@@ -33,7 +33,7 @@ const CropAverageTable: React.FC = () => {
             <Table.Th>Crop</Table.Th>
             <Table.Th>Average Yield of the crop between 1950-2020</Table.Th>
             <Table.Th>
-              Average Cultivative Area of the crop between 1950-2020 (Ha)
+              Average Cultivative Area of the crop between 1950-2020
             </Table.Th>
           </Table.Tr>
         </Table.Thead>
